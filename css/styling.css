@@ -1,0 +1,103 @@
+.nav-col{
+    background-color: #d7b33f !important;
+}
+.nav-item-color{
+    color: white !important ; 
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-searchbar{
+    background-color: rgb(36, 176, 236);
+}
+.styling1{
+  padding-top: 100px;
+  padding-right: 200px;
+  
+}
+.styling2{
+    padding-top: 100px;
+  /*   padding-right: 200px; */
+  }
+  .rowh1styling{
+    color: white;
+    font-size: 60px;
+    padding-bottom: 20px;
+  
+  }
+
+  .rowp1styling{
+    color: white;
+    font-size: 20px;
+    margin-left: 9px;
+  }
+  .btnstyle1{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px ;
+    margin-top:  40px ;
+    margin-right: 20px;
+    margin-left: 9px;
+  }
+  .btnstyle2{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px ;
+    margin-top:  40px ;
+   
+  }
+  .rowh2styling{
+    color: rgb(7, 7, 7);
+    font-size: 50px;
+    padding-bottom: 15px;
+  }
+
+  .rowp2styling{
+    color: rgb(16, 16, 16);
+    font-size: 20px;
+  }
+  .btn2style2{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px ;
+    margin-top:  20px ;
+   color: white;
+  }
+/*   .half-a-border-on-top {
+    border-bottom: 20px solid rgb(248, 216, 9) ;
+    border-left: 20px solid rgb(248, 216, 9);
+    border: 50px;
+    border-image: linear-gradient(to right, rgb(248, 216, 9) 50%, transparent 50%) 100% 1;
+  
+  } */
+.treatmenth1{
+  color: white;
+ font-weight: bolder;
+}
+.treatmentp1{
+  color: white;
+ font-size: 20px;
+}
+
+
+.treatmenth2{
+  color: white;
+ font-weight: bolder;
+ padding-left: 50px;
+}
+.treatmentp2{
+  color: white;
+ font-size: 20px;
+ /* text-align: justify; */
+
+ 
+}
+.btn3style3{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 15px ;
+  margin-top:  20px ;
+ color: white;
+ /* margin-left: 38rem; */
+}
